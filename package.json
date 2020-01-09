@@ -1,0 +1,28 @@
+{
+  "name": "nodeserie",
+  "version": "1.0.0",
+  "description": "tutorial project from youtube chanel rockseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "tryapp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taniadr/node-serie.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "taniar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taniadr/node-serie/issues"
+  },
+  "homepage": "https://github.com/taniadr/node-serie#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

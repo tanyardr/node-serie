@@ -1,0 +1,16 @@
+[API NodeJS + Express + Mongo] Estrutura e cadastro | Diego Fernandes
+79.368 visualizações•23 de nov. de 2017
+
+
+
+Tutorial daqui:
+youtube.com/watch?v=BN_8bCfVp88
+
+GitRepo:
+git@github.com:taniadr/node-serie.git
+
+
+O PORQUE DE CADA MODULO
+
+# express 		: para server ne.
+# body-parser 	: para entender JSON, e usar os parametros URL como se fossem os de HTTP.
