@@ -1,3 +1,4 @@
+
 const mongoose = require('../database');
 const bcrypt = require('bcryptjs');
 
@@ -30,6 +31,6 @@ UserSchema.pre('save', async function(next) {
     next();
 });
 
-const User = mongoosemodel('User', UserSchema);
+const User = mongoose.model('User', UserSchema);
 
 module.exports = User;
